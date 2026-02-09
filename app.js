@@ -3,4 +3,3 @@ async function callBackend() {
     const text = await response.text();
     alert(text);
 }
-
